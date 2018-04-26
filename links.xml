@@ -1,0 +1,110 @@
+<?xml-stylesheet type="text/css" href="StyleSheet.css"?>
+
+<pages class = "SearchStyle">
+    <link class = "SearchStyle">
+    <title class = "SearchStyle">Ericafitlove Retreat 2018</title>
+    <url>../html/WeddingAlbums/EricafitloveRetreat2018.php</url> 
+    </link>
+    <link class = "SearchStyle">
+    <title>Gorilla Glue 2017</title>
+    <url>../html/WeddingAlbums/GorillaGlue2017.php</url>
+    </link>
+    <link class = "SearchStyle">
+    <title>Alyssa and Andrew</title>
+    <url>../html/WeddingAlbums/AlyssaAndAndrew.php</url>
+    </link>
+    <link class = "SearchStyle">
+    <title>Melina</title>
+    <url>../html/WeddingAlbums/Melina.php</url>
+    </link>
+    <link class = "SearchStyle">
+    <title>Michael and Laylee</title>
+    <url>../html/WeddingAlbums/MichaelAndLaylee.php</url>
+    </link>
+ 
+       <link class = "SearchStyle">
+    <title>Loren and Aaron</title>
+    <url>
+        ../html/WeddingAlbums/LorenAndAaron.php
+    </url>
+    </link>
+       <link class = "SearchStyle">
+    <title>Jessika and Billy</title>
+    <url>
+        ../html/WeddingAlbums/JessikaAndBilly.php
+    </url>
+    </link>
+       <link class = "SearchStyle">
+    <title>Lynzie and Collin</title>
+    <url>
+        ../html/WeddingAlbums/LynzieAndCollin.php
+    </url>
+    </link>
+       <link class = "SearchStyle">
+    <title>Nichole and Cody</title>
+    <url>
+        ../html/WeddingAlbums/NicholeAndCody.php
+    </url>
+    </link>
+       <link class = "SearchStyle">
+    <title>Amanda and Eric</title>
+    <url>
+       ../html/WeddingAlbums/AmandaAndEric.php
+    </url>
+    </link>
+       <link class = "SearchStyle">
+    <title>Dayton Oktoberfest 2017</title>
+    <url>
+        ../html/WeddingAlbums/DaytonOktoberfest2017.php
+    </url>
+    </link>
+       <link class = "SearchStyle">
+    <title>Leah and Matt</title>
+    <url>
+        ../html/WeddingAlbums/LeahAndMatt.php
+    </url>
+    </link>
+       <link class = "SearchStyle">
+    <title>Brooke and Collin</title>
+    <url>
+        ../html/WeddingAlbums/BrookeAndCollin.php
+    </url>
+    </link>
+       <link class = "SearchStyle">
+    <title>Jessica and Chris</title>
+    <url>
+       ../html/WeddingAlbums/JessicaAndChris.php
+    </url>
+    </link>
+       <link class = "SearchStyle">
+    <title>Ben and Rachel</title>
+    <url>
+        ../html/WeddingAlbums/BenAndRachel.php
+    </url>
+	</link>
+       <link class = "SearchStyle">
+    <title>Andrew and Bree</title>
+    <url>
+        ../html/WeddingAlbums/AndrewAndBree.php
+    </url>
+    </link>
+       <link class = "SearchStyle">
+    <title>Yulei and Chris</title>
+    <url>
+        ../html/WeddingAlbums/YuleiAndChris.php
+    </url>
+    </link>
+
+    <link class = "SearchStyle">
+    <title>Jordan</title>
+    <url>
+        ../html/WeddingAlbums/Jordan.php
+    </url>
+    </link>
+    <link class = "SearchStyle">
+    <title>Sara and Greg</title>
+    <url>
+        ../html/WeddingAlbums/SaraAndGreg.php
+    </url>
+    </link>
+</pages>
